@@ -1,0 +1,17 @@
+{
+  "name": "schedule-meeting",
+  "version": "1.0.0",
+  "description": "A backend linked to a SAP conversational AI used to schedule a meeting and list the attending participants",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Seifallah Jardak",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4"
+  }
+}
